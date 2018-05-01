@@ -8,4 +8,5 @@ Project of digital signal processing
     + 02. DFT & FFT. Inverse signals.
     + 03. Convolution signals: Gauss & rectangle.
     + 04. Low-pass filters.
+    + 05. High-pass filters.
 ```
