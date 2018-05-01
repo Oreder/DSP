@@ -14,3 +14,4 @@ Project of digital signal processing
     + 08. Smoothing. MEAN vs. MED filters.
     + 09. Recovering picture.
 ```
+3. PDF: Spectre in MatLAB.
