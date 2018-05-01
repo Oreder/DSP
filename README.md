@@ -11,4 +11,5 @@ Project of digital signal processing
     + 05. High-pass filters.
     + 06. Wiener's filter.
     + 07. Filter: solution of p(alpha) = 0.
+    + 08. Smoothing. MEAN vs. MED filters.
 ```
