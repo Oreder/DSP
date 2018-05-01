@@ -9,4 +9,5 @@ Project of digital signal processing
     + 03. Convolution signals: Gauss & rectangle.
     + 04. Low-pass filters.
     + 05. High-pass filters.
+    + 06. Wiener's filter.
 ```
